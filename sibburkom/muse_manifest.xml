@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru" resolutions="1x" timestamp="1542973028412">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru" resolutions="1x" timestamp="1542973169713">
   <folder name="css">
     <file name="site_global.css" crc="94639636"/>
     <file name="index.css" crc="4153247672" ref="index"/>
@@ -56,10 +56,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4294205463" ref="phone>index"/>
+      <file name="index.css" crc="4188551091" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3790340767" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4160976999" seo="true" mt="1542973002391" redirect="true"/>
+    <file name="index.html" crc="253522492" seo="true" mt="1542973157733" redirect="true"/>
   </folder>
   <file name="index.html" crc="4286879799" seo="true" mt="1542968112336" redirect="true"/>
 </manifest>
