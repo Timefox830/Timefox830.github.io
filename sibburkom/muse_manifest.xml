@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru/mobile" resolutions="1x" timestamp="1542969133125">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru/mobile" resolutions="1x" timestamp="1542969857525">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3927898724" ref="phone>index"/>
+      <file name="index.css" crc="3876246498" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3790340767" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="224951954" seo="true" mt="1542969042177" redirect="true"/>
+    <file name="index.html" crc="535547886" seo="true" mt="1542969805653" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="94639636"/>
@@ -26,7 +26,6 @@
   <folder name="images">
     <file name="images-liderskvazina1.jpg" crc="4095859253" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="114392377_w640_h640_4.jpg" crc="4064105847" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -39,34 +38,29 @@
     </file>
     <file name="arrow2w.png" crc="323185388" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="arrow1w.png" crc="4034096410" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные-svg-146x114.svg" crc="531309216" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 146x114_poster_.png" crc="4183341224" ref="phone>index"/>
     <file name="вставленные-svg-11471x114.svg" crc="366434712" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 11471x114_poster_.png" crc="416724839" ref="phone>index"/>
     <file name="вставленные-svg-83428x125.svg" crc="4208945279" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 83428x125_poster_.png" crc="384380713" ref="phone>index"/>
-    <file name="114392377_w640_h640_4203x284.jpg" crc="4152060351" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="4986316380x245.jpg" crc="3871839620" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2-crop-u2753.jpg" crc="80451760" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="114392377_w640_h640_4203x283.jpg" crc="4152060351" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
