@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru/mobile" resolutions="1x" timestamp="1542970689973">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru/mobile" resolutions="1x" timestamp="1542970872388">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4238853248" ref="phone>index"/>
+      <file name="index.css" crc="221066466" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3790340767" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="104889054" seo="true" mt="1542970651491" redirect="true"/>
+    <file name="index.html" crc="149534285" seo="true" mt="1542970845794" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="94639636"/>
@@ -24,10 +24,10 @@
     <file name="require.js" crc="7928878" ref="index:phone>index"/>
   </folder>
   <folder name="images">
-    <file name="images-liderskvazina1.jpg" crc="4095859253" seo="true" ref="index:phone>index">
+    <file name="images-liderskvazina1.jpg" crc="4174042574" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="114392377_w640_h640_4.jpg" crc="4064105847" seo="true" ref="index">
+    <file name="114392377_w640_h640_4.jpg" crc="4129271933" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="4986316.jpg" crc="3960267704" seo="true" ref="index">
@@ -54,13 +54,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 83428x125_poster_.png" crc="384380713" ref="phone>index"/>
-    <file name="4986316380x245.jpg" crc="3871839620" seo="true" ref="phone>index">
+    <file name="4986316570x366.jpg" crc="149275477" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="114392377_w640_h640_4203x283.jpg" crc="4152060351" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2374x189.jpg" crc="224143451" seo="true" ref="phone>index">
+    <file name="2560x282.jpg" crc="4050841066" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
