@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru" resolutions="1x" timestamp="1543051569229">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sibburkom.ru" resolutions="1x" timestamp="1543051959279">
   <folder name="css">
-    <file name="site_global.css" crc="4136052201"/>
+    <file name="site_global.css" crc="451068125"/>
     <file name="index.css" crc="3978777269" ref="index"/>
     <file name="iefonts_index.css" crc="3922631526" ref="index"/>
   </folder>
@@ -25,32 +25,25 @@
     </file>
     <file name="images-liderskvazina1.jpg" crc="4174042574" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="114392377_w640_h640_4.jpg" crc="4129271933" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="arrow2w.png" crc="323185388" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="arrow1w.png" crc="4034096410" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные-svg-11471x114.svg" crc="366434712" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 11471x114_poster_.png" crc="416724839" ref="phone>index"/>
     <file name="вставленные-svg-146x114.svg" crc="531309216" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 146x114_poster_.png" crc="4183341224" ref="phone>index"/>
     <file name="вставленные-svg-83428x125.svg" crc="4208945279" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 83428x125_poster_.png" crc="384380713" ref="phone>index"/>
@@ -66,7 +59,7 @@
       <file name="index.css" crc="4203297598" ref="phone>index"/>
       <file name="iefonts_index.css" crc="289871824" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="167477048" seo="true" mt="1543051520926" redirect="true"/>
+    <file name="index.html" crc="488365225" seo="true" mt="1543051932832" redirect="true"/>
   </folder>
   <file name="index.html" crc="313955242" seo="true" mt="1543051461458" redirect="true"/>
 </manifest>
